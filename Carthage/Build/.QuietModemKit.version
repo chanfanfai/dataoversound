@@ -1,0 +1,18 @@
+{
+  "iOS" : [
+    {
+      "hash" : "59c064bbb29f62dbee12321b9512c6218328e099544bf1abef88bc4da003e528",
+      "name" : "QuietModemKit"
+    }
+  ],
+  "commitish" : "v0.1.5",
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "Mac" : [
+
+  ]
+}
